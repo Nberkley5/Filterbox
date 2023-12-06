@@ -1,1 +1,27 @@
-
+{
+    "filterbox.field.APP_NAME": "Yahoo Mail",
+    "filterbox.field.PACKAGE_NAME": "com.yahoo.mobile.client.android.mail",
+    "filterbox.field.USER_ID": 0,
+    "filterbox.field.ONGOING": false,
+    "filterbox.field.WHEN": 1701886529000,
+    "filterbox.field.GROUP": "1A98zgI4_RG1lQZ4Evj3OXkvwmZVJsBCvrwhVN_5_JU",
+    "filterbox.field.CHANNEL_ID": "570_mail__other_",
+    "filterbox.field.HAS_CONTENT_VIEW": false,
+    "filterbox.field.HAS_BIG_CONTENT_VIEW": false,
+    "filterbox.field.HAS_HEADS_UP_CONTENT_VIEW": false,
+    "android.reduced.images": true,
+    "android.progress": 0,
+    "android.template": "android.app.Notification$InboxStyle",
+    "android.progressMax": 0,
+    "android.showChronometer": false,
+    "android.showWhen": true,
+    "android.title.big": "Capital One",
+    "filterbox.field.template": "com.catchingnow.TRIM",
+    "android.title": "Capital One",
+    "android.subText": "berkley.natasha@yahoo.com",
+    "androidx.core.app.extra.COMPAT_TEMPLATE": "androidx.core.app.NotificationCompat$InboxStyle",
+    "android.textLines": "[Ljava.lang.CharSequence;@d8437df",
+    "android.progressIndeterminate": false,
+    "android.summaryText": "berkley.natasha@yahoo.com",
+    "android.text": "Action requested: Natasha R Berkley, please confirm your info"
+}
